@@ -4,6 +4,7 @@ This project was done as a part of class Kaggle contest to predict the income le
 
 ## Models Used
 
+Decision Tree  
 Random Forest  
 Single Layer Neural Network  
 Multi Layer Neural Network using Pytorch  
